@@ -1,0 +1,14 @@
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.exe
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.deps.json
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.runtimeconfig.json
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.runtimeconfig.dev.json
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.dll
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\bin\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.pdb
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.AssemblyInfoInputs.cache
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.AssemblyInfo.cs
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.dll
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.pdb
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.genruntimeconfig.cache
+C:\Users\dyego\source\repos\Practica-Ordenamiento-Busqueda\Practica-Ordenamiento-Busqueda\obj\Debug\netcoreapp3.1\Practica-Ordenamiento-Busqueda.csproj.AssemblyReference.cache
